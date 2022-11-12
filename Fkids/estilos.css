@@ -1,0 +1,46 @@
+
+
+.contenedor{
+    margin: 50px;
+    
+}
+.cuerpo{
+    background-color: #3d4692;
+}
+.cabe{
+    background-color:#e3273d ;
+    border-radius: 30px;
+    width: 95%;
+    height: 70px;
+
+}
+.title{
+    color: rgb(238, 235, 235);
+    font-size: 400;
+    text-align: center;
+    font-family: Arial;
+  
+}
+.image{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: 80px;
+}
+.titlee{
+    color: rgb(255, 253, 253);
+    font-size: 400;
+    margin-left: 180px;
+    font-family: Arial;
+  
+}
+.descripcion{
+    color: white;
+    font-size: 2rem;
+    font-family: Arial;
+}
+.link{
+    text-align: center;
+    background-color: white;
+    font-size: 2rem;
+}

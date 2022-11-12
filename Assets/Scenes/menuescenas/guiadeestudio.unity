@@ -208,12 +208,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Diles\r\nQue yo me s\xE9 tu' pose' favoritas\r\nQue te hablo malo y que
-    eso te excita\r\nQue te hago todo lo que necesitas\r\nPa' hacerte venir\r\nY
-    dile'\r\nQue yo me s\xE9 tu pose favorita\r\nQue te hablo malo y que eso te excita\r\nQue
-    te hago todo lo que necesita'\r\nPa' hacerte venir\nFarru\r\nDile que soy el
-    baby\r\nTu novio viste de Old Navy\r\nYo s\xED tengo flow, \xE9l no tiene flow\r\nYo
-    a ti te martillo y te doy dembow"
+  m_text: "Introducci\xF3n\r\nHola querido cibernauta me presento soy la aplicaci\xF3n
+    m\xF3vil FriendlyKids y te mencionare un poco sobre nuestras instrucciones y
+    manejos de nuestra app, somos un grupo de j\xF3venes nicarag\xFCenses con ganas
+    de emprender y ser la primera aplicaci\xF3n en Nicaragua que te ayudara a ti
+    y a tu hijo a reforzar sus conocimientos o adquirir nuevos si el ni\xF1o/a padece
+    de trisom\xEDa 21 (S\xEDndrome de Down) esta es la app que necesitas en tu d\xEDa
+    a d\xEDa. Esta aplicaci\xF3n fue creada en Nicaragua y va dirigida a padres que
+    tengan el deseo de ayudar a su hijo/a en un \xE1mbito educativo con diferentes
+    juegos interactivos desarrollados con el fin de que ellos adquieran nuevos conocimientos
+    y se diviertan aprendiendo.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b9a59a3dcd2d7a5499f583285fabe136, type: 2}
   m_sharedMaterial: {fileID: -5459452675460343971, guid: b9a59a3dcd2d7a5499f583285fabe136, type: 2}
